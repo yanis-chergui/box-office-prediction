@@ -27,7 +27,7 @@ Ce type d'approche quantitative est directement transférable à d'autres domain
 
 1.  Cloner le projet :
     ```bash
-    git clone [https://github.com/ton-pseudo/box-office-prediction.git](https://github.com/ton-pseudo/box-office-prediction.git)
+    git clone [git clone https://github.com/yanis-chergui/box-office-prediction.git](https://github.com/yanis-chergui/box-office-prediction.git)
     ```
 2.  Installer les dépendances :
     ```bash
