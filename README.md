@@ -8,7 +8,7 @@
 
 ## 🎯 Objectif & Contexte
 
-Dans l'industrie du cinéma, l'intuition ne suffit plus. L'objectif de ce projet est de construire un modèle capable de **prédire les recettes mondiales** (`Gross Revenue`) d'un film en fonction de son budget, de son casting et de sa popularité attendue.
+Dans l'industrie du cinéma, l'intuition ne suffit plus. L'objectif de ce projet est de construire un modèle capable de **prédire les recettes mondiales** (`Gross Revenue`) d'un film en fonction de son budget et de sa popularité attendue.
 
 Ce type d'approche quantitative est directement transférable à d'autres domaines performatifs, comme l'analyse sportive (prédiction de valeur marchande ou de performance joueurs).
 
